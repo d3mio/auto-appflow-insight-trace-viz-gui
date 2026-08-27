@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/AppFlow-Insight.git
+    git clone https://github.com/d3mio/auto-appflow-insight-trace-viz-gui.git
     cd AppFlow-Insight
     ```
 
